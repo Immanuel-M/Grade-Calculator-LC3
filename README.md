@@ -1,5 +1,5 @@
 # Grade-Calculator-LC3
-Grade Calculator using ARM written in the LC-3 language.
+Grade Calculator using ARM written in the LC-3 language. Written by Robert Hinojo & Immanuel Morris
 # Table of Contents:
 * [documentation](documentation)
 * [gradecalculator](program)(code)
