@@ -2,4 +2,4 @@
 Grade Calculator using ARM written in the LC-3 language.
 # Table of Contents:
 * [documentation](documentation)
-* [ASM](ASM)
+* [program](GradeCalculator)
