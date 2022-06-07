@@ -2,7 +2,7 @@
 Grade Calculator using ARM written in the LC-3 language. Written by Robert Hinojo & Immanuel Morris
 # Table of Contents:
 * [documentation](documentation)
-* [gradecalculator](program)(code)
+* [gradecalculator](program) (code)
 ## General Info
 This program takes 5 decimal inputs from a user and will display
 a letter grade for each percentage(input). It will then display
