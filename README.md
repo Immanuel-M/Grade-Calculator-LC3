@@ -9,6 +9,8 @@ a letter grade for each percentage(input). It will then display
 the minimum, maximum, and average of all the input grades.
 Please note that this program will display an error message
 if incorrect information is typed in.
+Ignore the "0" prior to input, and just type in your grade value. The program
+will input the correct letter.
 
 *USER MUST PRESS ENTER AFTER EACH INPUT FOR PROGRAM TO RUN SUCCESSFULLY*
 
