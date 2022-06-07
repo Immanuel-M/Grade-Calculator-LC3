@@ -11,7 +11,8 @@ the minimum, maximum, and average of all the input grades.
 Please note that this program will display an error message
 if incorrect information is typed in.
 ## Setup
-* To run LC-3, pleas download the executable and install on your local C drive
+Please follow these steps:
+* To run LC-3, please download the executable and install on your local C drive
 * After installation, Open the text editor, and save the code as an ".asm" file
 (be sure to set a file path for saving)
 * Next open the simulator (located at install location) and load the ".obj" file
