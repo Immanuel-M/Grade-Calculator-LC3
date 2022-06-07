@@ -9,6 +9,7 @@ a letter grade for each percentage(input). It will then display
 the minimum, maximum, and average of all the input grades.
 Please note that this program will display an error message
 if incorrect information is typed in.
+Also note that the program displays at the BOTTOM of the console.
 Ignore the "0" prior to input, and just type in your grade value. The program
 will input the correct letter.
 
@@ -22,4 +23,4 @@ Please follow these steps:
 (be sure to set a file path for saving)
 * Next open the simulator (located at install location) and load the ".obj" file
 * Run execution (Green arrow button on simulator)
-* Result will display on the console
+* Result will display on the console (bottom)
